@@ -1,3 +1,4 @@
 # Jurnal 2
 
-Soal: [PDF](soal.pdf)
+Soal: [PDF](soal.pdf)\
+Poin: 100

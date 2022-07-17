@@ -1,0 +1,3 @@
+/Users/heritsam/Documents/CProjects/modul2/cmake-build-debug/CMakeFiles/modul2.dir
+/Users/heritsam/Documents/CProjects/modul2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/heritsam/Documents/CProjects/modul2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
